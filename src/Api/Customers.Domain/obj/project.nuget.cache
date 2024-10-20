@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hfRnAhj0mD6J2/CLHDBPgGfLdvZdz8qMUn2nH88d6FEsepqYk94gwJYLY3ywbq0uWvedCicwYi11zlI7zWGnxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tumma\\OneDrive\\Desktop\\Pinewood\\Customers\\customers\\src\\Api\\Customers.Domain\\Customers.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tumma\\.nuget\\packages\\oneof\\3.0.255\\oneof.3.0.255.nupkg.sha512",
+    "C:\\Users\\tumma\\.nuget\\packages\\oneof.sourcegenerator\\3.0.255\\oneof.sourcegenerator.3.0.255.nupkg.sha512"
+  ],
+  "logs": []
+}
